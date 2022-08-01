@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vashu-yellow)](https://stackoverflow.com/users/19653051/vashu-haritasya-)
 
 I'm
-doing Full Stack Web Development internship program in Edureka. Presently I'm not working, I'm from Delhi NCR. I am senior year student looking forward to work with in this field. The crossover between design and programming has always been of interest to me, I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript,) ,database(MongoDB,Mysql)
+doing Full Stack Web Development internship program in Edureka. Presently I'm not working, I'm from Delhi NCR. I am senior year student looking forward to work in this field. The crossover between design and programming has always been of interest to me, I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript,) ,database(MongoDB,Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/VashuHaritasya/count.svg)
