@@ -1,3 +1,5 @@
+<img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
+
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vashu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vashu-haritasya-437b93217/)
