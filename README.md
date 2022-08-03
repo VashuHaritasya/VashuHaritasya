@@ -13,6 +13,8 @@ Heya!!, I'm Vashu Haritasya. A Full Stack Web Developer from Delhi, India.
     <img src="https://github-readme-stats.vercel.app/api?username=VashuHaritasya&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
   </a>
 </p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VashuHaritasya&show_icons=true&theme=synthwave" alt="VashuHaritasya :: Profile Stats" /></p>
 
 
 <h2 align="center">You can reach me at :alien:</h2>
