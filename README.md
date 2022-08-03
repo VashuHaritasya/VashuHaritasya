@@ -1,5 +1,4 @@
 # Vashu Haritasya
-
 <h2 align="center">About me</h2>
 
 ```golang
@@ -17,7 +16,7 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of metalHead-countrySong-cyberPunk-melomaniac-gearAddict-listener-traveler-foodLover-gamer-coder-programmer-dogLover-sportsAficionado hybrid"
 		"- 🔭 I’m currently working in":      "Eduerka as an intern"
-		"- 🌱 I’m currently learning":        "Everything (web D stack from companys) --- Sharpening my Full Stack Skills for job (Personal goal)"
+		"- 🌱 I’m currently learning":        "Everything (web D stack for companys) --- Sharpening my Full Stack Skills for my future (Personal goal)"
 		"- 👯 I’m looking to collaborate on": "Live project
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅"
 		"- 💬 Ask me about":                  "Web-Dev"
