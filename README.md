@@ -15,10 +15,24 @@ Heya!!, I'm Vashu Haritasya. A Full Stack Web Developer from Delhi, India.
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vashu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vashu-haritasya-437b93217/)
-[![Website Badge](https://img.shields.io/badge/-Vashu-yellow?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/19653051/vashu-haritasya)](https://stackoverflow.com/users/19653051/vashu-haritasya-)
-[![leetcode Badge](https://img.shields.io/badge/-Vashu-lightgreen?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Vashu246Haritasya/)](https://leetcode.com/Vashu246Haritasya/)
-
+<h2 align="center">You can reach me at :alien:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vashu-haritasya-437b93217/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vashu haritasya's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://stackoverflow.com/users/19653051/vashu-haritasya-/angel-vashu-haritasya?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Vashu haritasya's Stack Overflow Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://github.com/VashuHaritasya">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Vashu haritasya's GitLab Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.instagram.com/vashu246haritasya/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Vashu haritasya's Instagram Profile" height="30" width="30">
+  </a>
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/VashuHaritasya/count.svg)
 
