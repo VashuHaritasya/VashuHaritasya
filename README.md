@@ -16,7 +16,8 @@ Heya!!, I'm Vashu Haritasya. A Full Stack Web Developer from Delhi, India.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vashu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vashu-haritasya-437b93217/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Vashu-yellow)](https://stackoverflow.com/users/19653051/vashu-haritasya-)
+[![Website Badge](https://img.shields.io/badge/-Vashu-yellow?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/19653051/vashu-haritasya)](https://stackoverflow.com/users/19653051/vashu-haritasya-)
+[![leetcode Badge](https://img.shields.io/badge/-Vashu-lightgreen?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Vashu246Haritasya/)](https://leetcode.com/Vashu246Haritasya/)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/VashuHaritasya/count.svg)
