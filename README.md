@@ -24,7 +24,7 @@ Heya!!, I'm Vashu Haritasya. A Full Stack Web Developer from Delhi, India.
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VashuHaritasya&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
 </div>
 <br>
