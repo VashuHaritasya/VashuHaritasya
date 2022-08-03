@@ -34,7 +34,9 @@ Heya!!, I'm Vashu Haritasya. A Full Stack Web Developer from Delhi, India.
   </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/VashuHaritasya/count.svg)
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/VashuHaritasya/count.svg" alt="VashuHaritasya :: Visitor's Count" /></p>
+
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
